@@ -2,7 +2,7 @@
 ## Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/user-management-api.git
+git clone https://github.com/JuanGonzalezCuadros/user-management-api.git
 
 cd user-management-api
 
